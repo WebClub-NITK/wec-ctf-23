@@ -1,4 +1,4 @@
-# ****Tank that Bank!****
+# Tank that Bank !
 
 Category : Reverse Engineering
 

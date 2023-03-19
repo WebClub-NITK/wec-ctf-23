@@ -1,4 +1,4 @@
-# **Espionage Escapade(Warm-Up)**
+# Espionage Escapade
 
 Category: Reverse Engineering
 

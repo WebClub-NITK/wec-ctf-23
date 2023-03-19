@@ -1,4 +1,4 @@
-# **Gold Rush**
+# Gold Rush
 
 Category: Reverse Engineering
 

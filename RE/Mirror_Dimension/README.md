@@ -1,4 +1,4 @@
-# **MIRROR DIMENSION**
+# MIRROR DIMENSION
 
 Category: RE
 

@@ -1,4 +1,4 @@
-# ****Restaurant RE-cipies****
+# Restaurant RE-cipies
 
 Category: Reverse Engineering
 
