@@ -27,9 +27,9 @@ Good Luck Detective!
 
 ## Relevant files / links
 
-1. hash.jpg
-2. Employees.csv
-3. ettubrutus.txt
+1. [hash.jpg](./hash.jpg)
+2. [Employees.csv](./Employees.csv)
+3. [ettubrutus.txt](./ettu_brutus.txt)
 
    [Drive link to resources](https://drive.google.com/drive/folders/1NnD4wusPY-eMtt3SR6eQ2yg0Xa5nSIUw?usp=share_link)
 

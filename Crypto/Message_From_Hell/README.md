@@ -46,4 +46,4 @@ Now we simply need to iterate through the subgroup $\{ 1, g, g^2, g^3, \ldots, g
 
 Upon decryption, we can check if the text obtained starts with "WEC{" and if so, this is our required flag.
 
-A complete solution is outlined in [diffie_hellman.py](diffie_hellman.py).
+A complete solution is outlined in [diffie_hellman.py](./diffie_hellman.py).
